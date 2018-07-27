@@ -10,8 +10,8 @@
 #endif
 #endif
 
-#import "CTMediator+ModuleAActions.h"
+#import "CTMediator.h"
 
-FOUNDATION_EXPORT double ACategoryVersionNumber;
-FOUNDATION_EXPORT const unsigned char ACategoryVersionString[];
+FOUNDATION_EXPORT double CTMediatorVersionNumber;
+FOUNDATION_EXPORT const unsigned char CTMediatorVersionString[];
 

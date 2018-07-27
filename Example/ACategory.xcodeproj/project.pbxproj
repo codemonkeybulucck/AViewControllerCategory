@@ -210,10 +210,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-ACategory_Tests/Pods-ACategory_Tests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ACategory/ACategory.framework",
+				"${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ACategory.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CTMediator.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

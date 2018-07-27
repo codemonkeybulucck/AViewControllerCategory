@@ -1,9 +1,9 @@
 {
   "name": "ACategory",
   "version": "0.1.0",
-  "summary": "A short description of ACategory.",
+  "summary": "这是A的Category",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/545390087@qq.com/ACategory",
+  "homepage": "https://github.com/codemonkeybulucck/AViewControllerCategory",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "545390087@qq.com": "codebulucck@163.com"
   },
   "source": {
-    "git": "https://github.com/545390087@qq.com/ACategory.git",
+    "git": "https://github.com/codemonkeybulucck/AViewControllerCategory.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ACategory/Classes/**/*"
+  "source_files": "ACategory/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
 }

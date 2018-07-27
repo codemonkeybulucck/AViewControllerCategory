@@ -6,7 +6,8 @@
 //  Copyright © 2018年 Lemon. All rights reserved.
 //
 
-#import "CTMediator.h"
+#import <CTMediator/CTMediator.h>
+#import <UIKit/UIKit.h>
 
 @interface CTMediator (ModuleAActions)
 - (UIViewController*)fetchAViewController;
