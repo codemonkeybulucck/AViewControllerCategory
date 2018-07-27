@@ -1,0 +1,22 @@
+{
+  "name": "ACategory",
+  "version": "0.1.0",
+  "summary": "A short description of ACategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/545390087@qq.com/ACategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "545390087@qq.com": "codebulucck@163.com"
+  },
+  "source": {
+    "git": "https://github.com/545390087@qq.com/ACategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ACategory/Classes/**/*"
+}
